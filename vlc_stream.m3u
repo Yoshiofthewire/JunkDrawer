@@ -1,13 +1,13 @@
   #EXTM3U
 
   #EXTINF:102 channel-id="windy",Windy
-  https://192.168.1.98:5589/stream/windy
+  http://192.168.1.98:5589/stream/windy
 
   #EXTINF:100 channel-id="weatherscan",Weatherscan
-  https://192.168.1.98:5589/stream/weatherscan
+  http://192.168.1.98:5589/stream/weatherscan
 
   #EXTINF:101 channel-id="weatherscan",WeatherscanLocal
-  https://192.168.1.98:5598/stream?url=https://192.168.1.98:8888
+  http://192.168.1.98:5598/stream?url=http://192.168.1.98:8888
 
   #EXTINF:103 channel-id="TickerTape",TickerTape
-  https://192.168.1.98:5598/stream?url=https://yoshiofthewire.github.io/JunkDrawer/ticker.html
+  http://192.168.1.98:5598/stream?url=https://yoshiofthewire.github.io/JunkDrawer/ticker.html
