@@ -6,5 +6,5 @@
   #EXTINF:100 channel-id="weatherscan",Weatherscan
   chrome://192.168.1.98:5589/stream/weatherscan
 
-  #EXTINF:102,TickerTape
+  #EXTINF:102 channel-id="TickerTape",TickerTape
   chrome://192.168.1.98:5598/stream?url=https://yoshiofthewire.github.io/JunkDrawer/ticker.html
