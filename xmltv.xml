@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-url="http://www.schedulesdirect.org/" source-info-name="Schedules Direct" generator-info-name="XMLTV/$Id: tv_grab_na_dd.in,v 1.70 2008/03/03 15:21:41 rmeden Exp $" generator-info-url="http://www.xmltv.org/">
+  <channel id="windy">
+    <display-name>Windy</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/0/02/WindyCzesh.jpg" />
+  </channel>
+  <channel id="weatherscan">
+    <display-name>Weatherscan Local</display-name>
+    <icon src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/The_Weather_Channel.png" />
+  </channel>
+  <channel id="TickerTape">
+    <display-name>TickerTape</display-name>
+    <icon src="https://play-lh.googleusercontent.com/DaMMZNxlXemcDZvIjJub6hGDXmVNL0kFusm6K8D8AHSRPYtdb3CA8fiIzw40NwvTKN8" />
+  </channel>
+  </tv>
